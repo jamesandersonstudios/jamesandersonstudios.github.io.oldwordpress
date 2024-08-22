@@ -8,16 +8,16 @@
     <meta name="description" content="James all in one place...">
     <meta name="generator" content="Free UnderConstructionPage plugin for WordPress">
     <link rel="stylesheet" href="https://fonts.bunny.net/css?family=Roboto:400,900">
-    <link rel="stylesheet" href="wp-content/plugins/under-construction-page/themes/css/bootstrap.min.css?v=4.01" type="text/css">
-<link rel="stylesheet" href="wp-content/plugins/under-construction-page/themes/css/common.css?v=4.01" type="text/css">
-<link rel="stylesheet" href="wp-content/plugins/under-construction-page/themes/mad_designer/style.css?v=4.01" type="text/css">
-<link rel="stylesheet" href="wp-content/plugins/under-construction-page/themes/css/font-awesome.min.css?v=4.01" type="text/css">
-<link rel="icon" href="wp-content/plugins/under-construction-page/themes/images/favicon.png">
+    <link rel="stylesheet" href="../css/bootstrap.min.css?v=4.01" type="text/css">
+<link rel="stylesheet" href="../css/common.css?v=4.01" type="text/css">
+<link rel="stylesheet" href="../mad_designer/style.css?v=4.01" type="text/css">
+<link rel="stylesheet" href="../css/font-awesome.min.css?v=4.01" type="text/css">
+<link rel="icon" href="../images/favicon.png">
   </head>
 
   <body>
     <div id="hero-image">
-      <img src="wp-content/plugins/under-construction-page/themes/mad_designer/mad-designer.png" alt="Mad Designer at work" title="Mad Designer at work">
+      <img src="../mad_designer/mad-designer.png" alt="Mad Designer at work" title="Mad Designer at work">
     </div>
     <div class="container">
 
@@ -40,7 +40,7 @@
       </div>
 
     </div>
-    <div id="login-button" class="loggedout"><a href="wp-login.php"><i class="fa fa-wordpress fa-2x" aria-hidden="true"></i></a></div>
+    <div id="login-button" class="loggedout"><a href="../../../../../wp-login.php"><i class="fa fa-wordpress fa-2x" aria-hidden="true"></i></a></div>
   </body>
 </html>
 <!-- Powered by Staatic (https://staatic.com/) -->
